@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Aryak Ghosal </h1>
-<h3 align="center">An aspiring Data Analyst from India</h3>
+<h1 align="left">Hi, I'm Aryak Ghosal </h1>
+<h3 align="left">An aspiring Data Analyst from India</h3>
 
 - 🌱 I’m currently learning **Data Analytics**
 
