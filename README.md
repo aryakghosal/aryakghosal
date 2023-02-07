@@ -1,5 +1,5 @@
 ![MasterHead](https://15d.co/wp-content/uploads/2018/04/3loaders.gif)
-<h1 align="center">Hi there 👋, I'm Aryak Ghosal</h1>
+<h1 align="center">Hey there 👋, I'm Aryak </h1>
 <h3 align="center">An aspiring Data Analyst from India</h3>
 
 - 🌱 I’m currently learning **Data Analytics**
