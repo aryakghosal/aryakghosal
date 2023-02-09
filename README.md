@@ -1,5 +1,6 @@
-<h1 align="left">Hi, I'm Aryak Ghosal </h1>
-<h3 align="left">An aspiring Data Analyst from India</h3>
+<h1 align="left">Hi, I'm Aryak Ghosal <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> </h1>
+
+<h3 align="left">An aspiring Data Analyst from India </h3>
 
 - :seedling: I'm interested in **Data Anlaytics** & **Buisness Intelligence**
 
@@ -11,14 +12,14 @@
 
 - :earth_asia: All of my projects are available here at [GitHub](https://github.com/aryakghosal?tab=repositories)
 
+<p align="right"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/aryakghosal/aryakghosal?logo=github"> <align="right"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/aryakghosal/aryakghosal?logo=GitHub"> </p>
 
 <h3 align="left">Connect with Me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aryakghosal" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png" alt="aryakghosal" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/aryakghosal" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/900px-HackerRank_Icon-1000px.png?20200508182226" alt="aryakghosal" height="30" width="30" /></a>
-</p>
+<p align="left"> 
+  
+![Twitter Badge](https://img.shields.io/badge/-@aryakghosal-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=) [![Linkedin Badge](https://img.shields.io/badge/-aryakghosal-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryakghosal)
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/900px-New_Power_BI_Logo.svg.png?20210102182532" alt="power bi" width="30" height="30"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a> <h3 align="left">My Stats:</h3> </p>
+<p align="left"> </a> <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" alt="sql" width="35" height="35"/> </a> <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/900px-New_Power_BI_Logo.svg.png?20210102182532" alt="power bi" width="30" height="30"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a> <h3 align="left">My Stats:</h3> </p>
 
 ![Aryak's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryakghosal&show_icons=true&hide=contribs&theme=tokyonight)
