@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Aryak Ghosal <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> </h1>
 
-<h3 align="left">An aspiring Data Analyst from India </h3>
+<h4 align="left">An aspiring Data Analyst with a bachelor's degree in Electrical Engineering and a strong foundation in SQL and Power BI. Eager to turn my passion for data into a rewarding career, I am dedicated to continuously learning and developing my skills in data analysis, visualization, and presentation techniques. </h4>
 
 - :seedling: I'm interested in **Data Anlaytics** & **Buisness Intelligence**
 
