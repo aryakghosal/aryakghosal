@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **SQL & Power BI**
 
-- 🌏 All of my projects are available here at [GitHub](https://github.com/aryakghosal)
+- 🌏 All of my projects are available here at [GitHub](https://github.com/aryakghosal?tab=repositories)
 
 
 <h3 align="left">Connect with me:</h3>
