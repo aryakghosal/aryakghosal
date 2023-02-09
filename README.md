@@ -1,9 +1,9 @@
 <h1 align="left">Hi, I'm Aryak Ghosal </h1>
 <h3 align="left">An aspiring Data Analyst from India</h3>
 
-- ✨ I'm interested in **Data Anlaytics** & **Buisness Intelligence**
+- 🌱 I'm interested in **Data Anlaytics** & **Buisness Intelligence**
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🎓 I’m currently learning **Data Analytics**
 
 - 🔭 I'm looking to collaborate on **Data Analysis Projects**
 
