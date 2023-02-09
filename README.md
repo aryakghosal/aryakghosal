@@ -17,7 +17,7 @@
 <h3 align="left">Connect with Me:</h3>
 <p align="left"> 
   
-![Twitter Badge](https://img.shields.io/badge/-@aryakghosal-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=) [![Linkedin Badge](https://img.shields.io/badge/-aryakghosal-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryakghosal)
+![Twitter Badge](https://img.shields.io/badge/-@aryakghosal-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=) [![Linkedin Badge](https://img.shields.io/badge/-aryakghosal-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryakghosal) ![Mail Badge](https://img.shields.io/badge/-aryakghosal-red?style=flat&labelColor=red&logo=gmail&logoColor=white)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> </a> <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" alt="sql" width="35" height="35"/> </a> <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/900px-New_Power_BI_Logo.svg.png?20210102182532" alt="power bi" width="30" height="30"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a> <h3 align="left">My Stats:</h3> </p>
