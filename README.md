@@ -1,15 +1,15 @@
 <h1 align="left">Hi, I'm Aryak Ghosal </h1>
 <h3 align="left">An aspiring Data Analyst from India</h3>
 
-- 🌱 I'm interested in **Data Anlaytics** & **Buisness Intelligence**
+- :seedling: I'm interested in **Data Anlaytics** & **Buisness Intelligence**
 
-- 🎓 I’m currently learning **Data Analytics**
+- :mortar_board: I’m currently learning **Data Analytics**
 
-- 🔭 I'm looking to collaborate on **Data Analysis Projects**
+- :telescope: I'm looking to collaborate on **Data Analysis Projects**
 
-- 💬 Ask me about **SQL & Power BI**
+- :speech_balloon: Ask me about **SQL & Power BI**
 
-- 🌏 All of my projects are available here at [GitHub](https://github.com/aryakghosal?tab=repositories)
+- :earth_asia: All of my projects are available here at [GitHub](https://github.com/aryakghosal?tab=repositories)
 
 
 <h3 align="left">Connect with Me:</h3>
