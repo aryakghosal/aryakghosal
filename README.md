@@ -4,7 +4,7 @@
 <h4 align="left">An aspiring Data Analyst with a bachelor's degree in Electrical Engineering and a strong foundation in SQL and Power BI. Eager to turn my passion for data into a rewarding career, I am dedicated to continuously learning and developing my skills in data analysis, visualization, and presentation techniques. </h4> <img align="right" alt="Coding" width="400" height="250" src="https://cdn.dribbble.com/users/43762/screenshots/1193016/mtn-graph-dribbbble.gif">
 
 ![](https://komarev.com/ghpvc/?username=aryakghosal&label=visitors&style=flat-square)
-- :seedling: I'm interested in **Data Anlaytics** & **Buisness Intelligence**
+- :seedling: I'm interested in `Data Anlaytics` **&** `Buisness Intelligence`
 
 - :mortar_board: I’m currently learning **Data Analytics**
 
@@ -13,6 +13,8 @@
 - :speech_balloon: Ask me about **SQL & Power BI**
 
 - :earth_asia: All of my projects are available here at [GitHub](https://github.com/aryakghosal?tab=repositories)
+
+- :zap: Fun Fact: I'm a highly fastidious person
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left"> 
