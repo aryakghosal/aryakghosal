@@ -13,8 +13,6 @@
 
 - :earth_asia: All of my projects are available here at [GitHub](https://github.com/aryakghosal?tab=repositories)
 
-<p align="right"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/aryakghosal/aryakghosal?logo=github"> <align="right"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/aryakghosal/aryakghosal?logo=GitHub"> </p>
-
 <h3 align="left">Connect with Me:</h3>
 <p align="left"> 
   
