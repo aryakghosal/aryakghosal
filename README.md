@@ -3,7 +3,6 @@
 
 <h4 align="left">An aspiring Data Analyst with a bachelor's degree in Electrical Engineering and a strong foundation in SQL and Power BI. Eager to turn my passion for data into a rewarding career, I am dedicated to continuously learning and developing my skills in data analysis, visualization, and presentation techniques. </h4> <img align="right" alt="Coding" width="400" height="250" src="https://cdn.dribbble.com/users/43762/screenshots/1193016/mtn-graph-dribbbble.gif">
 
-![](https://komarev.com/ghpvc/?username=aryakghosal&style=flat-square&color=blue)
 - :seedling: I'm interested in **Data Anlaytics** & **Buisness Intelligence**
 
 - :mortar_board: I’m currently learning **Data Analytics**
