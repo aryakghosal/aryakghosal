@@ -14,6 +14,7 @@
 - :speech_balloon: Ask me about **SQL & Power BI**
 
 - :earth_asia: All of my projects are available here at [GitHub](https://github.com/aryakghosal?tab=repositories)
+<img align="right" alt="Coding" width="400" height="250" src="https://cdn.dribbble.com/users/43762/screenshots/1193020/media/e87c1abec50e0577f586e1253063fec8.gif">
 
 - :zap: Fun Fact: I'm a highly fastidious person
 
