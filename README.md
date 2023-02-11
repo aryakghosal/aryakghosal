@@ -2,7 +2,7 @@
 <h1 align="left">Hi, I'm Aryak Ghosal <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/aryakghosal/aryakghosal?logo=github"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/aryakghosal/aryakghosal?logo=GitHub"> </h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=15&pause=800&width=420&height=25&lines=Aspiring+Data+Analyst;Aspiring+Business+Intelligence+Analyst" alt="Typing SVG" /></a>
-<br> An aspiring Data Analyst with a bachelor's degree in Electrical Engineering and a strong foundation in SQL and Power BI. Eager to turn my passion for data into a rewarding career, I am dedicated to continuously learning and developing my skills in data analysis, visualization, and presentation techniques. </h4> <br> <img align="right" alt="Coding" width="400" height="250" src="https://cdn.dribbble.com/users/43762/screenshots/1193016/mtn-graph-dribbbble.gif">
+<br> An aspiring Data Analyst with a bachelor's degree in Electrical Engineering and a strong foundation in SQL and Power BI. Eager to turn my passion for data into a rewarding career, I am dedicated to continuously learning and developing my skills in data analysis, visualization, and presentation techniques. </h4> <br> <img align="right" alt="Chart" width="400" height="250" src="https://cdn.dribbble.com/users/43762/screenshots/1193016/mtn-graph-dribbbble.gif">
 
 ![](https://komarev.com/ghpvc/?username=aryakghosal&label=visitors&style=flat-square&color=blue)
 - :seedling: I'm interested in `Data Anlaytics` **&** `Buisness Intelligence`
@@ -14,8 +14,9 @@
 - :speech_balloon: Ask me about **SQL & Power BI**
 
 - :earth_asia: All of my projects are available here at [GitHub](https://github.com/aryakghosal?tab=repositories)
+<img align="right" alt="Chart" width="400" height="250" src="https://cdn.dribbble.com/users/43762/screenshots/1193020/media/e87c1abec50e0577f586e1253063fec8.gif">
 
-- :zap: Fun Fact: I'm a highly fastidious person <img align="right" alt="Coding" width="400" height="260" src="https://cdn.dribbble.com/users/43762/screenshots/1193020/media/e87c1abec50e0577f586e1253063fec8.gif">
+- :zap: Fun Fact: I'm a highly fastidious person 
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left"> 
