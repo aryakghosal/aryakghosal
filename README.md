@@ -15,7 +15,7 @@
 
 - :earth_asia: All of my projects are available here at [GitHub](https://github.com/aryakghosal?tab=repositories)
 
-- :zap: Fun Fact: I'm a highly fastidious person <img align="right" alt="Chart" width="400" height="250" src="https://cdn.dribbble.com/users/43762/screenshots/1193020/media/e87c1abec50e0577f586e1253063fec8.gif">
+- :zap: Fun Fact: I'm a highly fastidious person <img align="right" alt="Chart" width="400" height="240" src="https://cdn.dribbble.com/users/43762/screenshots/1193020/media/e87c1abec50e0577f586e1253063fec8.gif">
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left"> 
