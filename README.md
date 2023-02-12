@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="left">Hi, I'm Aryak Ghosal <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/aryakghosal/aryakghosal?logo=github"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/aryakghosal/aryakghosal?logo=GitHub"> </h1>
 
-<a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=16&pause=800&width=430&height=25&lines=Aspiring+Data+Analyst;Transforming+Data+into+Insights;Telling+the+Story+behind+Complex+Data" alt="Typing SVG" /></a>
+<a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=16&pause=800&width=430&height=25&lines=Aspiring+Data+Analyst;Transforming+Data+into+Actionable+Insights;Telling+the+Story+behind+Complex+Data" alt="Typing SVG" /></a>
 <br> 
 An aspiring Data Analyst with a bachelor's degree in Electrical Engineering and a strong foundation in SQL and Power BI. Eager to turn my passion for data into a rewarding career, I am dedicated to continuously learning and developing my skills in data analysis, visualization, and presentation techniques. 
 <br> 
