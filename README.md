@@ -23,7 +23,13 @@ An aspiring Data Analyst with a bachelor's degree in Electrical Engineering and 
 <h3 align="left">Connect with Me:</h3>
 <p align="left"> 
   
-![Twitter Badge](https://img.shields.io/badge/-@aryakghosal-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=) [![Linkedin Badge](https://img.shields.io/badge/-aryakghosal-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryakghosal) ![Mail Badge](https://img.shields.io/badge/-aryakghosal-red?style=flat&labelColor=red&logo=gmail&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryakghosal)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/aryakghosal)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
+
 
 <h3 align="left">Languages & Tools: <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="22"></h3>
 <p align="left"> 
@@ -45,8 +51,17 @@ An aspiring Data Analyst with a bachelor's degree in Electrical Engineering and 
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/768px-HTML5_Badge.svg.png?20110131171049" alt="HTML5" width="33" height="32"/> 
 </a> &nbsp;
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png?20170128174110" alt="matlab" width="36" height="36"/>
-<h3 align="left">My Stats:</h3> 
 </p>
+
+<h4 align="left">Databases:</h4> 
+
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+<h3 align="left">My Stats:</h3> 
 
 | ![Aryak's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryakghosal&show_icons=true&theme=tokyonight) | ![Aryak's GitHub Streak](https://streak-stats.demolab.com/?user=aryakghosal&theme=gruvbox_duo) |
 | -- | -- |
