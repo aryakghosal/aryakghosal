@@ -42,9 +42,9 @@ An aspiring Data Analyst with a bachelor's degree in Electrical Engineering and 
 </a> &nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/> 
 </a> &nbsp;
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/768px-HTML5_Badge.svg.png?20110131171049" alt="HTML5" width="34" height="33"/> 
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/768px-HTML5_Badge.svg.png?20110131171049" alt="HTML5" width="33" height="32"/> 
 </a> &nbsp;
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/900px-Octicons-mark-github.svg.png?20180806170715" alt="GitHub" width="37" height="37"/>
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png?20170128174110" alt="matlab" width="36" height="36"/>
 <h3 align="left">My Stats:</h3> 
 </p>
 
