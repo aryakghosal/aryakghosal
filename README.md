@@ -38,6 +38,7 @@ An aspiring Data Analyst with a bachelor's degree in Electrical Engineering and 
 
 <img align="right" alt="Chart" width="400" height="250" src="https://cdn.dribbble.com/users/43762/screenshots/1193020/media/e87c1abec50e0577f586e1253063fec8.gif">
 
+
 <h3 align="left">Connect with Me:</h3>
 <p align="left"> 
   
@@ -72,9 +73,9 @@ An aspiring Data Analyst with a bachelor's degree in Electrical Engineering and 
 
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white) <br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
+![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white)
 
 <h3 align="left">My Stats:</h3> 
 
