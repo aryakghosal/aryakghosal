@@ -10,7 +10,7 @@ An aspiring Data Analyst with a bachelor's degree in Electrical Engineering and 
 ![](https://komarev.com/ghpvc/?username=aryakghosal&label=visitors&style=flat-square&color=blue)
 - :seedling: I'm interested in `Data Anlaytics` **&** `Buisness Intelligence`
 
-- :mortar_board: I’m currently learning **Data Analytics**
+- :books: I’m currently learning **Data Analytics**
 
 - :telescope: I'm looking to collaborate on **Data Analysis Projects**
 
