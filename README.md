@@ -5,7 +5,7 @@
 <br> 
 An aspiring Data Analyst with a bachelor's degree in Electrical Engineering and a strong foundation in SQL and Power BI. Eager to turn my passion for data into a rewarding career, I am dedicated to continuously learning and developing my skills in data analysis, visualization, and presentation techniques. 
 <br> 
-<img align="right" alt="Chart" width="400" height="250" src="https://cdn.dribbble.com/users/43762/screenshots/1193016/mtn-graph-dribbbble.gif">
+<img align="right" alt="Area Chart" width="400" height="250" src="https://cdn.dribbble.com/users/43762/screenshots/1193016/mtn-graph-dribbbble.gif">
 
 ![](https://komarev.com/ghpvc/?username=aryakghosal&label=visitors&style=flat-square&color=blue)
 - :seedling: I'm interested in `Data Anlaytics` **&** `Buisness Intelligence`
@@ -18,7 +18,7 @@ An aspiring Data Analyst with a bachelor's degree in Electrical Engineering and 
 
 - :earth_asia: All of my projects are available here at [GitHub](https://github.com/aryakghosal?tab=repositories)
 
-- :zap: Fun Fact: I'm a highly fastidious person 
+<br>
 <br>
 
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/aryakghosal)
@@ -36,7 +36,7 @@ An aspiring Data Analyst with a bachelor's degree in Electrical Engineering and 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-<img align="right" alt="Chart" width="400" height="250" src="https://cdn.dribbble.com/users/43762/screenshots/1193020/media/e87c1abec50e0577f586e1253063fec8.gif">
+<img align="right" alt="Line Chart" width="400" height="250" src="https://cdn.dribbble.com/users/43762/screenshots/1193020/media/e87c1abec50e0577f586e1253063fec8.gif">
 
 
 <h3 align="left">Connect with Me:</h3>
