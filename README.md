@@ -79,7 +79,7 @@ An aspiring Data Analyst with a bachelor's degree in Electrical Engineering and 
 
 <h3 align="left">My Stats:</h3> 
 
-| ![Aryak's GitHub Stats](https://github-readme-stats-aryak-aryakghosal.vercel.app/api?username=aryakghosal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight) | ![Aryak's GitHub Streak](https://streak-stats.demolab.com/?user=aryakghosal&hide_border=true&theme=gruvbox) |
+| ![Aryak's GitHub Stats](https://github-readme-stats-aryak.vercel.app/api?username=aryakghosal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight) | ![Aryak's GitHub Streak](https://streak-stats.demolab.com/?user=aryakghosal&hide_border=true&theme=gruvbox) |
 | -- | -- |
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
