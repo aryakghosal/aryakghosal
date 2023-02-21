@@ -19,7 +19,6 @@ An aspiring Data Analyst with a bachelor's degree in Electrical Engineering and 
 - :earth_asia: All of my projects are available here at [GitHub](https://github.com/aryakghosal?tab=repositories)
 
 <br>
-<br>
 
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/aryakghosal)
 ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black) 
@@ -68,8 +67,6 @@ An aspiring Data Analyst with a bachelor's degree in Electrical Engineering and 
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png?20170128174110" alt="matlab" width="36" height="36"/>
 </p>
 
-<br>
-<br>
 <br>
 
 <h3 align="left">My Stats:</h3> 
