@@ -68,6 +68,7 @@ An aspiring Data Analyst with a bachelor's degree in Electrical Engineering and 
 </p>
 
 <br>
+<br>
 
 <h3 align="left">My Stats:</h3> 
 
