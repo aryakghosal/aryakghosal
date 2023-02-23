@@ -36,15 +36,6 @@ An aspiring Data Analyst with a bachelor's degree in Electrical Engineering and 
 
 <img align="right" alt="Line Chart" width="400" height="250" src="https://cdn.dribbble.com/users/43762/screenshots/1193020/media/e87c1abec50e0577f586e1253063fec8.gif">
 
-
-<h3 align="left">Connect with Me:</h3>
-<p align="left"> 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryakghosal)
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-
 <h3 align="left">Languages & Tools: <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="22"></h3>
 <p align="left"> 
 </a> 
@@ -67,6 +58,28 @@ An aspiring Data Analyst with a bachelor's degree in Electrical Engineering and 
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png?20170128174110" alt="matlab" width="36" height="36"/>
 </p>
 
+
+
+<h3 align="left">Connect with Me:</h3>
+<p align="left"> 
+
+<a href="https://www.linkedin.com/in/aryakghosal">
+  <img align="left" alt="Aryak's LinkedIn" width="28px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+</a>
+<a href="https://twitter.com/AryakGhosal">
+  <img align="left" alt="Aryak's Twitter" width="31px" src="https://simpleicons.now.sh/twitter/495f7e" />
+</a>
+<a href="">
+  <img align="left" alt="Aryak's Gmail" width="31px" src="https://simpleicons.now.sh/gmail/495f7e" />
+</a>
+<a href="">
+  <img align="left" alt="Aryak's Spotify" width="30px" src="https://simpleicons.now.sh/spotify/495f7e" />
+</a>
+<a href="">
+  <img align="left" alt="Aryak's Discord" width="35px" src="https://simpleicons.now.sh/discord/495f7e" />
+</a>
+
+<br>
 <br>
 <br>
 
