@@ -69,13 +69,13 @@ An aspiring Data Analyst with a bachelor's degree in Electrical Engineering and 
 <a href="https://twitter.com/AryakGhosal">
   <img align="left" alt="Aryak's Twitter" width="31px" src="https://simpleicons.now.sh/twitter/495f7e" />
 </a>
-<a href="">
+<a href="https://en.wikipedia.org/wiki/Gmail">
   <img align="left" alt="Aryak's Gmail" width="31px" src="https://simpleicons.now.sh/gmail/495f7e" />
 </a>
-<a href="">
+<a href="https://open.spotify.com/">
   <img align="left" alt="Aryak's Spotify" width="30px" src="https://simpleicons.now.sh/spotify/495f7e" />
 </a>
-<a href="">
+<a href="https://discord.com/">
   <img align="left" alt="Aryak's Discord" width="35px" src="https://simpleicons.now.sh/discord/495f7e" />
 </a>
 
