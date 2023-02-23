@@ -69,7 +69,7 @@ An aspiring Data Analyst with a bachelor's degree in Electrical Engineering and 
 <a href="https://twitter.com/AryakGhosal">
   <img align="left" alt="Aryak's Twitter" width="31px" src="https://simpleicons.now.sh/twitter/495f7e" />
 </a>
-<a href="https://en.wikipedia.org/wiki/Gmail">
+<a href="mailto:aryakghosal@gmail.com">
   <img align="left" alt="Aryak's Gmail" width="31px" src="https://simpleicons.now.sh/gmail/495f7e" />
 </a>
 <a href="https://discord.com/">
