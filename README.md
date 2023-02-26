@@ -39,7 +39,7 @@ An aspiring Data Analyst with a bachelor's degree in Electrical Engineering and 
 <h3 align="left">Languages & Tools: <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="22"></h3>
 <p align="left"> 
 </a> 
-<a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" alt="sql" width="37" height="35"/>
+<a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://pics.freeicons.io/uploads/icons/png/12110150411537355600-512.png" alt="sql" width="33" height="35"/>
 </a> &nbsp;
 <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/900px-New_Power_BI_Logo.svg.png?20210102182532" alt="power bi" width="32" height="32"/> 
 </a> &nbsp;
