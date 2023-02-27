@@ -51,7 +51,7 @@ An aspiring Data Analyst with a bachelor's degree in Electrical Engineering and 
 </a> &nbsp;
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/32903323/43256817-e40da78a-90c5-11e8-9c84-9471549a1259.png" alt="Tableau" width="40" height="40"/>  
 </a> &nbsp;
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/768px-HTML5_Badge.svg.png?20110131171049" alt="HTML5" width="32" height="32"/>
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/768px-HTML5_Badge.svg.png?20110131171049" alt="HTML5" width="33" height="32"/>
 </a> &nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/>
 </p>
