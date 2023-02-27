@@ -41,7 +41,7 @@ An aspiring Data Analyst with a bachelor's degree in Electrical Engineering and 
 </a> 
 <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png" alt="sql" width="32" height="33"/>
 </a> &nbsp;
-<a href="" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/138912/database.svg" height="34"/> 
+<a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/138912/database.svg" height="34"/> 
 </a> &nbsp;
 <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/900px-New_Power_BI_Logo.svg.png?20210102182532" alt="power bi" width="32" height="32"/> 
 </a> &nbsp;
