@@ -16,7 +16,7 @@ An aspiring Data Analyst with a bachelor's degree in Electrical Engineering and 
 
 - :speech_balloon: Ask me about **SQL & Power BI**
 
-- :earth_asia: All of my projects are available here at [GitHub](https://github.com/aryakghosal?tab=repositories)
+- :rocket: All of my projects are available here on [GitHub](https://github.com/aryakghosal?tab=repositories)
 
 <br>
 
