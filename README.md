@@ -33,9 +33,9 @@ An aspiring Data Analyst with a bachelor's degree in Electrical Engineering and 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
+<!--
 <img align="right" alt="Line Chart" width="200" height="200" src="https://octodex.github.com/images/jetpacktocat.png">
-
+-->
 <h3 align="left">Languages & Tools: <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="22"></h3>
 <p align="left"> 
 </a> 
