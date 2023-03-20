@@ -75,7 +75,7 @@ An aspiring Data Analyst with a bachelor's degree in Electrical Engineering and 
 <a href="https://discord.com/">
   <img align="left" alt="Aryak's Discord" width="34px" src="https://simpleicons.now.sh/discord/495f7e" />
 </a>
-<a href="https://open.spotify.com/">
+<a href="https://open.spotify.com/playlist/6I1IqG9Nqj5UCTDaEcAS7q?si=7f3e1c8d18f444de">
   <img align="left" alt="Aryak's Spotify" width="30px" src="https://simpleicons.now.sh/spotify/495f7e" />
 </a>
 
