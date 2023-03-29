@@ -7,7 +7,7 @@ An aspiring Data Analyst with a bachelor's degree in Electrical Engineering and 
 <br> 
 <img align="right" alt="Area Chart" width="400" height="250" src="https://cdn.dribbble.com/users/43762/screenshots/1193016/mtn-graph-dribbbble.gif">
 
-![](https://komarev.com/ghpvc/?username=aryakghosal&label=visitors&style=flat-square&color=blue)
+![](https://komarev.com/ghpvc/?username=aryakghosal&label=Profile+Views&style=flat-square&color=blue)
 - :seedling: I'm interested in `Data Anlaytics` **&** `Buisness Intelligence`
 
 - :books: I’m currently learning **Data Analytics**
