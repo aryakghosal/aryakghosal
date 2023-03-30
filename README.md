@@ -39,9 +39,9 @@ An aspiring Data Analyst with a bachelor's degree in Electrical Engineering and 
 <h3 align="left">Languages & Tools: <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="22"></h3>
 <p align="left"> 
 </a> 
-<a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png" alt="sql" width="32" height="33"/>
+<a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="mysql" width="32" height="33"/>
 </a> &nbsp;
-<a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/138912/database.svg" height="34"/> 
+<a href="https://en.wikipedia.org/wiki/Database" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/138912/database.svg" height="34"/> 
 </a> &nbsp;
 <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/900px-New_Power_BI_Logo.svg.png?20210102182532" alt="power bi" width="32" height="32"/> 
 </a> &nbsp;
